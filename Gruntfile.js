@@ -324,7 +324,7 @@ module.exports = function(grunt) {
 
     grunt.registerTask('uploadSite', ['gh-pages']);
 
-    grunt.registerTask('dist', ['clean:dist', 'build', 'buildSite', 'copy:assetsToDist', 'uglify', 'cssmin']);
+    grunt.registerTask('dist', ['clean:dist', 'build', 'copy:assetsToDist', 'uglify', 'cssmin']);
 
     grunt.registerTask('plunker', ['connect:plunker']);
 
