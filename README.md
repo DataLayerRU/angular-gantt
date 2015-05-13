@@ -1,6 +1,6 @@
 # angular-gantt 
 
-Fork of [angular-gantt](http://www.angular-gantt.com)
+Forked from [angular-gantt](http://www.angular-gantt.com)
 
 ## Features in this fork 
  - Disabled row
